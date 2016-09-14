@@ -28,9 +28,9 @@ Comme c'est une refonte, nous ne partons pas de rien, voici un extrait du modèl
 ![](img/TAADataModel2.png)
 ![](img/TAADataModel3.png)
 
-![partie 1](data/Extraction_Toast_juillet_2016_Partie_1_Filtre.zip)
-![partie 2](data/Extraction_Toast_juillet_2016_Partie_2_Filtre.zip)
-![partie 3](data/Extraction_Toast_juillet_2016_Partie_3_Filtre.zip)
+* [partie 1](data/Extraction_Toast_juillet_2016_Partie_1_Filtre.zip)
+* [partie 2](data/Extraction_Toast_juillet_2016_Partie_2_Filtre.zip)
+* [partie 3](data/Extraction_Toast_juillet_2016_Partie_3_Filtre.zip)
 
 
 Vous pouvez aussi vous inspirer du projet [Fedox](http://fedox.irisa.fr/) pour la specification de la notion d'étudiant.
