@@ -24,7 +24,7 @@ D'un point de vue fonctionnalité, outre ces API côté serveur, il est à prév
 
 Comme c'est une refonte, nous ne partons pas de rien, voici un extrait du modèle de données actuel. N'hésitez pas à repartir de zéro mais vous pouvez vous en servir pour vérifier que vous n'avez pas oublier des classes de données.
 
-![](img/TAADataModel1.png  =250x)
+![](img/TAADataModel1.png)
 ![](img/TAADataModel2.png)
 ![](img/TAADataModel3.png)
 
