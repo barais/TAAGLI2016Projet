@@ -25,8 +25,8 @@ D'un point de vue fonctionnalité, outre ces API côté serveur, il est à prév
 Comme c'est une refonte, nous ne partons pas de rien, voici un extrait du modèle de données actuel. N'hésitez pas à repartir de zéro mais vous pouvez vous en servir pour vérifier que vous n'avez pas oublier des classes de données.
 
 ![](img/TAADataModel1.png)
-![](img/TAADataModel1.png)
-![](img/TAADataModel1.png)
+![](img/TAADataModel2.png)
+![](img/TAADataModel3.png)
 
 ![partie 1](data/Extraction_Toast_juillet_2016_Partie_1_Filtre.zip)
 ![partie 2](data/Extraction_Toast_juillet_2016_Partie_2_Filtre.zip)
