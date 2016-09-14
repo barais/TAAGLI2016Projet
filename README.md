@@ -18,7 +18,7 @@ D'un point de vue fonctionnalité, outre ces API côté serveur, il est à prév
 * Un module pour filtrer des manières avancées ces données
 * Un module pour exporter des données au format excel
 * Un module éditique pour créer à la volée des documents excel depuis un template de document openoffice (je vous fournirai un exemple)
-
+* un module d'enquête permettant de connaitre la situation des étudiants après le stage, 1 an après le stage, 3 ans après le stage.
 
 ## Analyse
 
@@ -32,6 +32,8 @@ Comme c'est une refonte, nous ne partons pas de rien, voici un extrait du modèl
 ![partie 2](data/Extraction_Toast_juillet_2016_Partie_2_Filtre.zip)
 ![partie 3](data/Extraction_Toast_juillet_2016_Partie_3_Filtre.zip)
 
+
+Vous pouvez aussi vous inspirer du projet [Fedox](http://fedox.irisa.fr/) pour la specification de la notion d'étudiant.
 
 ## Contraintes techniques
 
